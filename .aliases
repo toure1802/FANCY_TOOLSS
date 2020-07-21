@@ -1,0 +1,4 @@
+alias gpl = git config --global alias.pl pull
+alias gpu = git config --global alias.pu push
+alais gap = git config --global alias.ad add
+alias gss = git config --global alias.st status
